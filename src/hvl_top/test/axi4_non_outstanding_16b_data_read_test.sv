@@ -4,7 +4,7 @@
 //--------------------------------------------------------------------------------------------
 // Class: axi4_16b_data_read_test
 // Extends the base test and starts the virtual sequenceof write
-//--------------------------------------------------------------------------------------------
+//------------------------------------------------------------------------------------------
 class axi4_non_outstanding_16b_data_read_test extends axi4_base_test;
   `uvm_component_utils(axi4_non_outstanding_16b_data_read_test)
 
